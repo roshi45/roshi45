@@ -31,4 +31,9 @@ I’m an enthusiastic **Artificial Intelligence & Data Science** student passion
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshi45&theme=react-dark)
 
 ---
+
+## 📊 Leetcode Stats & Activity  
+![LeetCode Stats](https://leetcode-stats.vercel.app/?username=roshii45&theme=dark)
+
+
 ✨ **Let's connect and build something amazing together!** 🚀 
