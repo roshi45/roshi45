@@ -24,16 +24,18 @@ I’m an enthusiastic **Artificial Intelligence & Data Science** student passion
 ---
 
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshi45&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshi45&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=roshi45&theme=radical&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshi45&theme=react-dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=roshi45&theme=radical&hide_border=true)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshi45&theme=react-dark)  
 
 ---
 
-## 📊 Leetcode Stats & Activity  
+## 🎯 Leetcode Stats & Activity
 ![LeetCode Stats](https://leetcode-stats.vercel.app/?username=roshii45&theme=dark)
+
 
 
 ✨ **Let's connect and build something amazing together!** 🚀 
