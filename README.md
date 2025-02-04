@@ -15,11 +15,11 @@ I’m an enthusiastic **Artificial Intelligence & Data Science** student passion
 ---
 
 ## 🛠 Technical Skills  
-**Languages**: Python, JavaScript, C, Java 
-**AI/ML Frameworks**: TensorFlow, Keras,Pandas, Numpy   
-**Web Development**: React.js, Node.js, Express 
-**Database & Cloud**: MySQL, AWS, Docker, MongoDB   
-**Other Tools**: Git, GitHub, VS Code, Jupyter Notebook  
+-**Languages**: Python, JavaScript, C, Java 
+-**AI/ML Frameworks**: TensorFlow, Keras,Pandas, Numpy   
+-**Web Development**: React.js, Node.js, Express 
+-**Database & Cloud**: MySQL, AWS, Docker, MongoDB   
+-**Other Tools**: Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
