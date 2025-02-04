@@ -34,7 +34,9 @@ I’m an enthusiastic **Artificial Intelligence & Data Science** student passion
 ---
 
 ## 🎯 Leetcode Stats & Activity
-![LeetCode Stats](https://leetcode-stats.vercel.app/?username=roshii45&theme=dark)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/roshii45/)
+
 
 
 
